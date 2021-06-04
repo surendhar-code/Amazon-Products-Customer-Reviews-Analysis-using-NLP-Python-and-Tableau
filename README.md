@@ -68,5 +68,7 @@
 * Basic NLP tasks include tokenization and parsing, lemmatization/stemming, part-of-speech tagging, language detection and identification of semantic relationships. 
 * If you ever diagramed sentences in grade school, you’ve done these tasks manually before. 
 * In general terms, NLP tasks break down language into shorter, elemental pieces, try to understand relationships between the pieces and explore how the pieces work together to create meaning.
+## PROJECT ARCHITECTURE
+![](https://github.com/surendhar-code/Amazon-Products-Customer-Reviews-Analysis-using-NLP-Python-and-Tableau/blob/main/Amazon%20Products%20Customer%20Reviews%20Analysis/Screenshots/Flowchart.jpg)
 
  
